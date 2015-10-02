@@ -1,12 +1,49 @@
 10/01 Agenda
 
+Security Emphasis:
+	- Prize
+	- Pen test competition
+	- Mentoring
+	- Competition
 Decide on Date and Time for Spring
+	- March 11 - 13
 Decide on Location for Spring
+	- CPMI, Coover PRE_HACK
+
+Have everyone there for the event auth meeting.
+
+24 hour event
+	PRE_HACK - 6-10pm friday.
+	hardware room open hours
+	start saturday 10am mixer. 
+	11am keynote
+	12pm start hacking.
+	end hacking on sun at 12pm. presentation at 2pm.
+
+Sponsorship -
+	Make judging a tier, move mentoring down.
+
+Food -
+	- walking tacos at night
+	- coffee at night
+	- space snacks out
+	-
+
+Devpost alternatives:
+	Write a voting app.
 
 Look at organizer applications 
 	- next steps for applicants
+	- Lucas lusk1993@gmail.com
+	- Jay Patel jbpatel@iastate.edu
+	- Richard Cushing rcushing@iastate.edu
+	- Christine Hicaro chicaro@iastate.edu
+	- Shaun Vanwheelden 
+
+Sponsors -
+	Workiva, Rockwell, UP, United Health, Principal, 
 
 Split on Teams
 
 Decide on meeting for next time
-
+	thursday 8pm next week
